@@ -12,7 +12,7 @@ test(" 100 subtracted by 2 equals to 98", () => {
   expect(calculator.subtract(100, 2)).toBe(98);
 });
 
-test(" 12 divide 2 equals to 6", () => {
+test(" 12 divide 3 equals to 4", () => {
   expect(calculator.divide(12, 2)).toBe(6);
 });
 
